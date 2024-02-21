@@ -1,0 +1,8 @@
+com/wiredbrain/friends/FriendsApplication.class
+com/wiredbrain/friends/controller/FriendController.class
+com/wiredbrain/friends/service/FriendService.class
+com/wiredbrain/friends/util/ErrorMessage.class
+com/wiredbrain/friends/model/Address.class
+com/wiredbrain/friends/controller/ControllerExceptionHandler.class
+com/wiredbrain/friends/model/Friend.class
+com/wiredbrain/friends/util/FieldErrorMessage.class
